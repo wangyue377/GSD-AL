@@ -1,0 +1,16 @@
+
+[all]
+
+[build]
+scipy
+terminaltables
+pycocotools
+e2cnn
+future
+tensorboard
+cython
+shapely
+
+[optional]
+
+[tests]
